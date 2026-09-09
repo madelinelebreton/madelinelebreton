@@ -1,84 +1,38 @@
-# Hi 👋, I'm Madeline LeBreton
+# Hi, I'm Madeline 👋
 
-### Mechatronics Engineering Student
-
-- 🔭 I'm currently working on **A Pytorch project**
-
-- 🌱 Currently learning **Verilog HDL**
-
-- 📫 Feel free to reach out **lebretom@mcmaster.ca**
-
-- 👨‍💻 All of my projects are available at **[https://www.notion.so/madelinelebreton](https://www.notion.so/madelinelebreton/27b3cf41d2a180508428e1f16de4de12?v=27b3cf41d2a180d7a222000cdb18c105)**
-
-<h3 align="left">
-  Connect with me:&nbsp;  
-  <a href="https://linkedin.com/in/madeline-lebreton" target="blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="madelinelebreton"
-      height="20"
-      width="20"
-      style="margin-left:8px; vertical-align:bottom;"
-    />
-  </a>
-</h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <!-- PyTorch -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-  </a>
-
-  <!-- Matplotlib -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- C -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  </a>
-
-  <!-- Julia -->
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=julia" alt="julia" width="40" height="40"/>
-  </a>
-
-  <!-- Remaining tools -->
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
-  </a>
+**Mechatronics student. Robotics, embedded systems, data-driven engineering.**
 
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  </a>
+🔧 **Building:**
+- 🤖 **Robotics & Mechatronics:** Servo-driven neck/camera system for robotics capstone. Embedded control, LiDAR-based target tracking, semi-autonomous positioning.
+- 🌍 **Geospatial Data:** Climate data pipelines, OpenStreetMap accessibility tools, isochrone models.
+- 🧪 **Scientific Computing:** Experimental data acquisition, analysis, and automation.
+- 🚀 **Mechanical Systems:** Integrating hardware for payload systems.
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  </a>
+🌱 <strong>This term:<strong> Capstone design project. Predictive and Intelligent Control. Real-Time Systems. Robotics. Analog Sensors.
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
-  </a>
+  📫 <strong>Connect with me: </strong>. 
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=D14836)](mailto:lebretom@mcmaster.ca)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/madeline-lebreton)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=social&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?hl=en&user=U0L2UEkAAAAJ)
+
+
+
+### Tools & Languages
+<p>
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=r" alt="R" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=julia" alt="Julia" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/>
+
 
 </p>
+
+
