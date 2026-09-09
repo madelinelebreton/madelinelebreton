@@ -25,12 +25,12 @@
 <img src="https://skillicons.dev/icons?i=r" alt="R" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=julia" alt="Julia" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/>
 
 
 </p>
